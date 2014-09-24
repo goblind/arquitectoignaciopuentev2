@@ -1,0 +1,77 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 25px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   background-color: black !important;
+}
+
+.header span.right{
+  float: right;
+}
+.header span.right a{
+  float: none;
+  display: inline;
+}
+
+
+.header a{
+  padding: 0px 10px;
+  letter-spacing: 1px;
+  color: #ddd;
+  display: block;
+  float: left;
+}
+
+
+.hero-unit {
+	color: #808080;
+  padding: 15px;
+  padding-bottom:10px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 20px;
+  text-align:center;
+  font-style:italic;
+  color: inherit;
+  background-color: #DBDBDB;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+ text-shadow: 0 1px 1px rgba(255, 255, 255, 0.9);
+}
+
+.hero-unit h1 {
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: inherit;
+}
+
+.hero-unit li {
+  line-height: 30px;
+}
+
+.maincontent{
+		color: #808080;
+}
+
+
+.page-title{
+	color: #fff  !important;
+}
+
+.form-control{
+	background-color: #DCDCDC	 !important;
+}
+
+.contact-data
+{
+	color:#fff;
+}
+

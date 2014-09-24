@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 25px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   background-color: black !important;
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.title{
+	color: #fff !important;
+	margin: 0px 0 20px !important;
+
+	padding-top: 50px !important;
+}
+
+
+
+.header span.right{
+	float: right;
+}
+.header span.right a{
+	float: none;
+	display: inline;
+}
+
+
+.header a{
+	padding: 0px 10px;
+	letter-spacing: 1px;
+	color: #ddd;
+	display: block;
+	float: left;
+}
+
+.thumbnail
+{
+	padding:0px;
+	margin-bottom:0px;
+	cursor:default;
+}
+
+body {
+  
+  line-height: 0 !important; 
+}
+
+#content{ width:845px; margin:20px auto; padding:10px 30px; }
+.clearfix{ display: block; height: 0; clear: both; visibility: hidden; }
+.details{ margin:15px 20px; }	
+h4{ font:300 16px 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height:160%; letter-spacing:0.15em; color:#fff; text-shadow:1px 1px 0 rgb(0,0,0); }
+p{ font:300 12px 'Lucida Grande', Tahoma, Verdana, sans-serif; color:#aaa; text-shadow:1px 1px 0 rgb(0,0,0);}
+a{ text-decoration:none; }
+
+.moreInfo
+{
+	float:right;
+	top:-14px;
+	right:-15px;
+	position:relative;
+	z-index:0;
+	height:15px;
+	width:50px;
+	color:#fff;
+	cursor:pointer;
+}
+
+.moreInfo:hover
+{
+	color:red;
+}
+
+.img-responsive
+{
+	cursor:pointer;
+}
